@@ -1,0 +1,22 @@
+{
+  "name": "cleaner-cra",
+  "version": "1.0.0",
+  "description": "A script to easily remove create-react-app things to start a \b\b\b\b\b\b\u001b[Cs\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D not needed create-react-app files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "clean": "bin/index.js"
+  },
+  "keywords": [
+    "create-react\u001b[C\u001bct-app",
+    "react",
+    "react",
+    "js",
+    "script",
+    "clean"
+  ],
+  "author": "Uğur Kellecioğlu",
+  "license": "MIT"
+}
